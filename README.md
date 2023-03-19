@@ -3,6 +3,14 @@ Excel- Clothify Store Data Analysis
 
 ![image](https://user-images.githubusercontent.com/98311517/226190344-f7c38b7d-3722-48f1-b9d0-0c5f347c8310.png)
 
+## **Table of Contents** 
+1. [Bussiness Objective](https://github.com/sprshsneh/Clothify_Store_Analysis/edit/master/README.md#bussiness-objective)
+2. [Bussiness questions](https://github.com/sprshsneh/Clothify_Store_Analysis/edit/master/README.md#questions)
+3. [Methods](https://github.com/sprshsneh/Clothify_Store_Analysis/edit/master/README.md#methods)
+4. [Quick glance at the results](https://github.com/sprshsneh/Clothify_Store_Analysis/edit/master/README.md#Quick-glance-at-the-results)
+5. [Main Insights](https://github.com/sprshsneh/Clothify_Store_Analysis/edit/master/README.md#Main-Insights)
+6. [Final Conclusions to improve Clothify store sales](https://github.com/sprshsneh/Clothify_Store_Analysis/edit/master/README.md#Final-Conclusions-to-improve-Clothify-store-sales)
+
 ## **Bussiness Objective**
 Clothify store wants to create an annual sales report for 2022, So that, Clothify can understand their customers and grow more sales in 2023
 
