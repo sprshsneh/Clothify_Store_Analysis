@@ -32,7 +32,7 @@ Clothify store wants to create an annual sales report for 2022, So that, Clothif
 5. Interactive Dashboard
 6. Insights
 
-## **Quick glance at the results**
+## [Quick glance at the results](https://github.com/sprshsneh/Clothify_Store_Analysis/raw/master/Clothify%20Store%20Data%20Analysis.xlsx)
 ![image](https://user-images.githubusercontent.com/98311517/226191009-fbc73671-fce5-4dff-ba4f-1691e8b21141.png)
  
  ### 1. Compare the sales and orders using single chart
