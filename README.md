@@ -1,5 +1,8 @@
 # Clothify_Store_Analysis
-Excel- Clothify Store Data Analysis
+Sales insights - Retail textile bussiness
+1. Designed a interactive dashboard to understand the Colothify sales trend.
+2. The final dashboard was effective at displaying the sales trend of Clothify Store, allowing user to understand the purcahse capacity of customers from different geographical regions, channel, age and gender and take more informed decisions.
+3. Sales Insights will help to target customers of specific region, gender and age and increase revenue in next year 2023.
 
 ![image](https://user-images.githubusercontent.com/98311517/226190344-f7c38b7d-3722-48f1-b9d0-0c5f347c8310.png)
 
