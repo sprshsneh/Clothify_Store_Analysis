@@ -17,7 +17,7 @@ Sales insights - Retail textile bussiness
 ## **Bussiness Objective**
 Clothify store wants to create an annual sales report for 2022, So that, Clothify can understand their customers and grow more sales in 2023
 
-## **Questions**
+## **Bussiness Questions**
 1. Compare the sales and orders using single chart
 2. Which month got the highest sales and orders?
 3. Who purchases more - men or women in year 2022?
